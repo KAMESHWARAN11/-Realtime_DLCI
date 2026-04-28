@@ -1,0 +1,8 @@
+#Requirements for Real-Time Dynamic Lane Congestion Interpretation System (YOLOv8 + DLCI)
+
+ultralytics
+opencv-python
+numpy
+matplotlib
+pandas
+torch
